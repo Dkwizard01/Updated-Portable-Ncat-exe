@@ -1,0 +1,2 @@
+C:\Users\DK\Documents\CSharp\Ncat script\out\Ncat script.pdb
+C:\Users\DK\Documents\CSharp\Ncat script\out\Ncat script.exe
